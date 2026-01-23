@@ -1,3 +1,6 @@
+export const dynamic = 'force-dynamic';
+
+
 import Link from "next/link";
 import Image from "next/image";
 import {auth} from "@/lib/better-auth/auth";
